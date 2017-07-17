@@ -6,4 +6,9 @@ man/
 tmp/
 sync/
 output*/
-resume/
+resume/*.doc
+*.odt
+*.tex
+*.pdf
+*~
+*.doc
