@@ -16,9 +16,7 @@
 
 * Summary
 
-Software engineer with experiences in video codec, video transmission,
-video centered CDN(RTSP, HLS, HSS, DASH), cloud engineering and micro
-services based systems development.
+Software engineer with experiences in codec, video CDN, REST API and microservices
 
 * Skills
 
