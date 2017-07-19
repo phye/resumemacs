@@ -1,0 +1,14 @@
+
+#+MACRO: CELL1 15921574927
+#+MACRO: CELL2 phye.github.io
+#+MACRO: CELL3 报春路218弄
+#+MACRO: CELL4 phye8080@gmail.com
+#+MACRO: CELL5 github.com/phye
+#+MACRO: CELL6 上海市闵行区
+
+#+MACRO: HEADER \resheader{ {{{CELL1}}} }{ {{{CELL2}}} }{ {{{CELL3}}} }{ {{{CELL4}}} }{ {{{CELL5}}} }{ {{{CELL6}}} }
+
+#+MACRO: SUBTITLE1 软件开发工程师
+
+#+MACRO: SUBTITLEROWS \subtitlerows{ {{{SUBTITLE1}}} }
+
