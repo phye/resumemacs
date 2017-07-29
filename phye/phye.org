@@ -20,15 +20,14 @@ Software engineer with experiences in codec, video CDN, REST API and microservic
 
 * Skills
 
-- *Languages*: /Experienced in/ Node.js, Python, C; /Familar with/ Go,
-  C++, Bash, Makefile
+- *Languages*: /Experienced in/ Node.js, Python, C; /Familar with/ Go, C++
 - *APIs*: /Experienced in/ RESTful API and micro service based architecture
 - *Platforms*: /Expert in/ Linux (Arch and CentOS), /Experienced in/ Mongo
 - *Tools*: /Expert in/ vim, git, tmux, emacs
 
 * Experience
 
-*** Middle Software Engineer at Cisco
+*** Senior Software Engineer at Cisco
 ***** Oct 2015 - Now
 
 V2PC(Virtual Video Platform - Controller), a cloud controller platform for
@@ -48,7 +47,7 @@ to video Recorders/Codecs/Packagers
   automation framework for V2PC which follows OO and trys to be
   testbed independent and portable to both Linux and OS X
 
-*** Junior Software Engineer at Cisco
+*** Software Engineer at Cisco
 ***** Mar 2013 - Sep 2015
 VDS-IS (Video Distribution System - Internet Streamer), cisco's video
 centric CDN solution for Service Providers which supports RTSP,

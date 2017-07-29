@@ -1,6 +1,6 @@
 
 #+MACRO: CELL1 15921574927
-#+MACRO: CELL2 phye.github.com
+#+MACRO: CELL2 phye.github.io
 #+MACRO: CELL3 No.218, Baochun Rd
 #+MACRO: CELL4 phye8080@gmail.com
 #+MACRO: CELL5 github.com/phye

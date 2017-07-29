@@ -1,6 +1,6 @@
 # Personal Info
 PHONE_NUMBER="15921574927"
-URL="phye.github.com"
+URL="phye.github.io"
 EMAIL="phye8080@gmail.com"
 REPOS="github.com/phye"
 ADDRESS1="No.218, Baochun Rd"

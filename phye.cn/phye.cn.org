@@ -1,10 +1,13 @@
 #+TITLE: 叶朝敏
-#+LANGUAGE: cn
+#+LANGUAGE: en
 #+OPTIONS: toc:nil H:10 tex:t
 #+STARTUP: odd hidestars indent showall
 #+INCLUDE: personal_info.org
 #+LaTeX_CLASS: article
 #+LaTeX_HEADER: \usepackage{mycv}
+#+LaTex_HEADER: \usepackage{xltxtra}
+#+LaTex_HEADER: \usepackage{xeCJK}
+#+LaTex_HEADER: \setmainfont{Times New Roman}
 #+LaTeX_HEADER: \hypersetup{hidelinks}
 #+LaTeX_HEADER: \usepackage{enumitem}
 #+LaTeX_HEADER: \setlist{nolistsep}
@@ -16,18 +19,18 @@
 
 * 背景小结
 
-软件开发工程师，具有2年视频编解码(在校），2年视频CDN，3年微服务与RESTAPI相关经验
+软件开发工程师，具有4年视频服务器产品研发经验，3年微服务与RESTAPI相关经验
 
 * 技能
 
-- *编程语言*: /熟悉/ Node.js, Python, C; /了解/ Go, C++, Bash, Makefile
-- *APIs*: /熟悉/ RESTful API 与微服务系统架构
+- *编程语言*: /熟悉/ Node.js, Python, C; /了解/ Go, C++
+- *APIs*: /熟悉/ RESTful API 场景化设计
 - *平台*: /熟悉/ Linux (Arch and CentOS), /熟悉/ Mongo
 - *工具*: /熟悉/ vim, git, tmux, emacs
 
 * 从业经验
 
-*** 中级软件开发工程师(Cisco)
+*** 高级软件开发工程师(Cisco)
 ***** 2015.10 - 
 
 V2PC(Virtual Video Platform - Controller), 云平台管理软件，负责管理思
@@ -42,7 +45,7 @@ V2PC(Virtual Video Platform - Controller), 云平台管理软件，负责管理�
   性都很差，因此重构了整个可迁移，跨平台，易扩展的面向对象的自动化框架，
   该框架目前为整个项目的CICD所使用
 
-*** 初级软件开发工程师(Cisco)
+*** 软件开发工程师(Cisco)
 ***** Mar 2013 - Sep 2015
 VDS-IS (Video Distribution System - Internet Streamer), 思科内部研发的
 面向运营商视频业务的内容分发系统，该系统支持RTSP，HLS，HSS，DASH
@@ -66,10 +69,10 @@ VDS-IS (Video Distribution System - Internet Streamer), 思科内部研发的
 - 采集摄像头原始裸视频流并发送给多核平台上的编码器
 - 将多核平台上的解码器输出的TS流打包成RTP流并在VLC客户端播放
 
-* 教育北京
+* 教育背景
 
 *** 上海交通大学
 ***** 2010.09 - 2013.04
-/电子工程系，硕士/, 主功视频编解码
+/电子工程系，硕士/, 主攻视频编解码
 ***** 2006.09 - 2010.06
 /电子工程系，学士/, GPA 83/100
